@@ -1,6 +1,10 @@
 # PSE-SwissDRG
+## Rollenverteilungen
 
-Key Account Manager :       Seva 
+Key Account Manager :       Seva
+
 Chief Deliverable Officer : Anjaly
+
 Quality Evangelist :        Julian
+
 Master Tracker :            Claude
