@@ -1,6 +1,6 @@
 Statusbericht 1
 =============
-![OK](./graphics/OK.jpg)
+![OK](./graphics/ok.jpg)
 
 **Zeitperiode :** 26/02/2025 - 05/03/2025 
 
