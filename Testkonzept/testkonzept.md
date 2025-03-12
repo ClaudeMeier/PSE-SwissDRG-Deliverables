@@ -1,5 +1,9 @@
 # Testkonzept
 
+- **Erstellt von:** Julian Mauerhofer  
+- **Datum:** 11.03.2025  
+- **Version:** V1 
+
 ## 1. Unit Tests
 - **Ziel des Tests:** Die einzelnen Units testen.
 - **Gewünschte Anforderungen (aktuelle Schätzung):** Jede Funktion soll die sich für Unit-Tests eignet, soll die erwarteten Outputs liefern.
@@ -26,25 +30,25 @@ In unseren Architekturskizzen gehen wir sehr stark davon aus, dass es keine Date
 - **Ziel des Tests:** Sicherstellen, dass das GUI korrekt funktioniert und benutzerfreundlich ist.
 - **Gewünschte Anforderungen (aktuelle Schätzung):** Die React-App muss die Medikamententabelle und die Chatbox klar und intuitiv anzeigen. Alle Bedienelemente sollen leicht zugänglich und praktisch zu bedienen sein.
 - **Testvorgehen:** 
-  - Automatisierte Tests prüfen, ob alle UI-Komponenten wie zum Beispiel die  Tabelle und die Chatbox korrekt geladen und dargestellt werden.
-  - Manuelle Tests mit Personen überprüfen die Usability: Navigation, Interaktion und visuelle Klarheit.
+  - Automatisierte Tests prüfen, ob alle UI-Komponenten wie zum Beispiel die  Tabelle und die Chatbox korrekt geladen und dargestellt werden.
+  - Manuelle Tests mit Personen überprüfen die Usability: Navigation, Interaktion und visuelle Klarheit.
 
 ## 6. Stress Test
-- **Ziel des Tests:** Überprüfen, wie sich das System verhält wenn die Auslastung hoch ist, um gute Performance sowie Stabilität sicherzustellen.
+- **Ziel des Tests:** Überprüfen, wie sich das System verhält, wenn die Auslastung hoch ist, um gute Performance sowie Stabilität sicherzustellen.
 - **Gewünschte Anforderungen (aktuelle Schätzung):**
-- Das System muss auch stabil sein, wenn mehrere Personen es gleichzeitig nutzen und die Antwortzeit des LLM sollte nicht zu stark zunehmen.
+- Das System muss auch stabil sein, wenn mehrere Personen es gleichzeitig nutzen, und die Antwortzeit des LLM sollte nicht zu stark zunehmen.
 - **Testvorgehen:** 
-- Der lokale Teil des Programms, also der lokale Teil der React App, sollte unseren Erwartungen nach keine Probleme haben für die ein Stresstest nützlich wäre. Wir fokussieren uns desshalb beim Stresstest auf das LLM. Wir führen durch:
-  - Simulation hoher Nutzerzahlen, die gleichzeitig die Chatbox nutzen.
-  - Überprüfung der Latenz der Antworten und der Stabilität des Systems.
+- Der lokale Teil des Programms, also der lokale Teil der React App, sollte unseren Erwartungen nach keine Probleme haben, für die ein Stresstest nützlich wäre. Wir fokussieren uns deshalb beim Stresstest auf das LLM. Wir führen durch:
+  - Simulation hoher Nutzerzahlen, die gleichzeitig die Chatbox nutzen.
+  - Überprüfung der Latenz der Antworten und der Stabilität des Systems.
 
 
 ## 7. Usability Test
 - **Ziel des Tests:** Überprüfen, ob die Anwendung intuitiv bedienbar ist und von den Mitarbeitern der SwissDRG als gut eingeschätzt wird.
 - **Gewünschte Anforderungen (aktuelle Schätzung):** 
-- Die App muss klar bedienbar sein, sodass die User bei der SwissDRG ohne viel Zeit mit dem Lesen von Anleitungen zu verbringen die App sofort nutzen können. Selbstverständlich muss die App auch ohne technische Vorkentnisse leicht zu bedienen sein. 
+- Die App muss klar bedienbar sein, sodass die User bei der SwissDRG ohne viel Zeit mit dem Lesen von Anleitungen zu verbringen, die App sofort nutzen können. Selbstverständlich muss die App auch ohne technische Vorkenntnisse leicht zu bedienen sein. 
 - **Testvorgehen:** 
-  - Wir suchen Testpersonen mit wenigen technischen Vorkentnissen und lassen sie die App ausprobieren. Sie sollen die wichtigsten Funktionen wie die Chatbox und die Tabelle ausprobieren.
-  - Wir holen direktes Feedback ein durch Umfragen und kurzen Interviews der Testpersonen.
-  - Wir werten das Feedback aus zur Identifikation von Usability-Problemen und Verbesserungspotenzialen.
+  - Wir suchen Testpersonen mit wenigen technischen Vorkenntnissen und lassen sie die App ausprobieren. Sie sollen die wichtigsten Funktionen wie die Chatbox und die Tabelle ausprobieren.
+  - Wir holen direktes Feedback ein, durch Umfragen und durch kurze Interviews der Testpersonen.
+  - Wir werten das Feedback aus zur Identifikation von Usability-Problemen und Verbesserungspotenzialen.
  
