@@ -2,7 +2,6 @@
 
 - **Erstellt von:** Julian Mauerhofer  
 - **Datum:** 1.04.2025  
-- **Version:** V1 
 ---
 
 ## 1. Unit Tests
