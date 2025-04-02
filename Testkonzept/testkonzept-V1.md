@@ -1,8 +1,7 @@
-# Testkonzept
+# Testkonzept V1
 
 - **Erstellt von:** Julian Mauerhofer  
 - **Datum:** 11.03.2025  
-- **Version:** V1 
 
 ## 1. Unit Tests
 - **Ziel des Tests:** Die einzelnen Units testen.
