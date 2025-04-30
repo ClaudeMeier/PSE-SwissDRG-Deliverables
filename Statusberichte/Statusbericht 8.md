@@ -14,8 +14,7 @@ Ebenfalls hat die implementation der beiden backend-Ansätze mehr Zeit als gedac
 Im frontend hat die Zeit nur für die Ziele mit hoher Priorität ausgereicht.
 Wir konnten daher nicht alle festgelegten Ziele für Iteration 3 erfüllen. Momentan nicht erfüllt sind:
 - Die Einbindung der Ansätze ins Projekt
-- Code-Tests im backend
-- Unit-tests im frontend
+- Code-Tests 
 - Kleinere Features im frontend (geringe Priorität)
 - Dockerisierung des Projekts
 
@@ -39,7 +38,7 @@ Wir werden dies im morgigen Meeting mit SwissDRG ansprechen.
 - Code-cleaning frontend
 - backend-Ansätze einbetten
 - Antwort strukturieren, sodass die Antwort im frontend gut lesbar ist.
-- Tests in frontend und backend
+- Code-Tests
 - Dockerisierung
 
 **Verfasst :** Claude (MasterTracker)
