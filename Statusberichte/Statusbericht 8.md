@@ -36,8 +36,9 @@ Wir werden dies im morgigen Meeting mit SwissDRG ansprechen.
 
 **Überblick : Offene Tasks:**
 
-- Ansätze einbetten
-- Antwort strukturierung, sodass die Antwort im frontend lesbar ist.
+- Code-cleaning frontend
+- backend-Ansätze einbetten
+- Antwort strukturieren, sodass die Antwort im frontend gut lesbar ist.
 - Tests in frontend und backend
 - Dockerisierung
 
