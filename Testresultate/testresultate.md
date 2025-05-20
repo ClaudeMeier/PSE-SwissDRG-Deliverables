@@ -11,7 +11,7 @@ Zur Erklärung der Approaches:
 
 ---
 
-## Grafik 1: Durchschnittlich erkannte Medikamente
+## Grafik 1: Durchschnittlich gefundene Medikamente
 
 ![Grafik 1](./Figure_1.png)
 
@@ -28,7 +28,7 @@ Diese Grafik zeigt die durchschnittliche Anzahl korrekt erkannter Medikamente f�
 
 ![Grafik 2](./Figure_2.png)
 
-Diese Grafik zeigt dasselbe wie Grafik 1, allerdings sind die Genauigkeiten nach Frage aufgeschlüsselt.
+Diese Grafik zeigt dasselbe wie Grafik 1, allerdings sind die Genauigkeiten nach Frage aufgeschlüsselt. So sind genauere Einblicke möglich.
 
 - Die gestrichelten roten Linien zeigen die maximal erreichbare Trefferanzahl.
 - Um dies zu erreichen, hätten die Approaches jedes Medikament in jedem einzelnen Durchgang finden müssen.
