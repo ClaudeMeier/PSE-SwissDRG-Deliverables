@@ -2,7 +2,7 @@ Statusbericht 1
 =============
 ![OK](./graphics/ok.jpg)
 
-*Zeitperiode :* 07.05.2025 - 14.05.2025 
+*Zeitperiode :* 14.05.2025 - 21.05.2025 
 
 Bericht:
 
